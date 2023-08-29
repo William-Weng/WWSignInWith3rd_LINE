@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "line-sdk-ios-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/line/line-sdk-ios-swift",
+      "state" : {
+        "revision" : "9a4e8aa06979f4e8af32e22b2fbb1af143b6dcae",
+        "version" : "5.10.0"
+      }
+    },
+    {
+      "identity" : "wwprint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWPrint",
+      "state" : {
+        "revision" : "6b70fabaa1dbeac95b224384819e231a1220900a",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "wwsigninwith3rd_apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSignInWith3rd_Apple",
+      "state" : {
+        "revision" : "7841d0389571f6f3b02610b02411115c3328f865",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "wwsigninwith3rd_line",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSignInWith3rd_LINE",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3a2b29a22a1977b53c6472687dd28e11c9ea30d8"
+      }
+    }
+  ],
+  "version" : 2
+}
